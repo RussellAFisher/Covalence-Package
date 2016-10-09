@@ -10,3 +10,7 @@ $ npm i
 ```
 - Open the Atom file that you want to pair program in on each user's computer. In this version, it is important to note that you should only have one file open in your atom window while editing.
 - Toggle on Covalence using the hot key control + option + O, and pair program away!
+
+
+[Video Demo](https://www.youtube.com/watch?v=DNr72W130Yo&t=9s)
+
